@@ -3,7 +3,7 @@ title: Privacy Policy
 filename: privacy.md
 --- 
 
-[Home](README.md) [Terms](terms.md)
+[Home](README.md) • [Terms](terms.md)
 
 ## Intro
 
