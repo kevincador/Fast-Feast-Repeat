@@ -10,8 +10,10 @@ Start your fasting journey with confidence and clarity using Fast Feast Repeat. 
 
 #### Simple and Non-Intrusive
 Fast Feast Repeat is crafted to be user-friendly and unobtrusive. Experience the ease of use without any overbearing nudges, allowing you to focus on your fasting goals without unnecessary distractions.
+
 #### Worry-Free One-Time Purchase
 No subscription, no hidden fees. Start tracking you fasts, don’t worry about being tracked because there’s nothing more to sell you.
+
 #### Privacy-Centric - Own Your Data
 Your privacy matters. Fast Feast Repeat operates with a strict privacy-first approach. Your data is entirely yours, offering the capability to export and import it at your convenience.
 
@@ -22,8 +24,10 @@ Your privacy matters. Fast Feast Repeat operates with a strict privacy-first app
 - It also indicates the current zone you are in such as the Fat Burning Zone
 - Easily initiate or conclude a fasting period with the start/stop button
 - Edit your fast if you start or stop your timer late
+  
 #### Fasts
 - Browse, edit, delete, or add Fasts to your personal history effortlessly
+
 #### Trends
 - Get the total count of your fasting sessions
 - Track minimum and maximum fast durations
