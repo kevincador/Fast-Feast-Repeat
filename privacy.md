@@ -3,6 +3,8 @@ title: Privacy Policy
 filename: privacy.md
 --- 
 
+[Home](README.md) [Terms](terms.md)
+
 ## Intro
 
 We value your privacy. That’s why we do not **collect** or **store** any personally-identifying data, locally or on our servers. We don’t and we won’t sell your data to anyone, **ever**!
