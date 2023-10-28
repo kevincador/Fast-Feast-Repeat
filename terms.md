@@ -3,7 +3,7 @@ title: Terms of Use
 filename: terms.md
 --- 
 
-[Home](README.md) [Privacy](privacy.md)
+[Home](README.md) • [Privacy](privacy.md)
 
 ## Intro
 
