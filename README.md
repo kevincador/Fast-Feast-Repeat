@@ -1,7 +1,3 @@
----
-title: Fast Feast Repeat
----
-
 Fast Feast Repeat is an Intermittent Fasting Tracker designed with a focus on simplicity, reliability, and privacy.
 
 Fast Feast Repeat offers a comprehensive insight into your fasting routine, empowering you with valuable information to track your progress effectively.
@@ -30,3 +26,5 @@ Your privacy matters. Fast Feast Repeat operates with a strict privacy-first app
 - Get the total count of your fasting sessions
 - Track minimum and maximum fast durations
 - Look at the average duration of your fasts over 7 days, 30 days, and overall
+
+Go to [Privacy Policy](privacy.md)
