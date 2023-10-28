@@ -1,8 +1,10 @@
 [Terms](terms.md) • [Privacy](privacy.md)
 
+## About
+
 Fast Feast Repeat is an Intermittent Fasting Tracker designed with a focus on simplicity, reliability, and privacy.
 
-Fast Feast Repeat offers a comprehensive insight into your fasting routine, empowering you with valuable information to track your progress effectively.
+The app offers a comprehensive insight into your fasting routine, empowering you with valuable information to track your progress effectively.
 
 Start your fasting journey with confidence and clarity using Fast Feast Repeat. Own your fasting experience while achieving your health and wellness goals!
 
