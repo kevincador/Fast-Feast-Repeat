@@ -35,4 +35,8 @@ Your privacy matters. Fast Feast Repeat operates with a strict privacy-first app
 - Track minimum and maximum fast durations
 - Look at the average duration of your fasts over 7 days, 30 days, and overall
 
+## Contact
+
+If you have any question about Fast Feast Repeat, [contact me](mailto:kevin.cador@me.com?subject=Fast%20Traking%20app).
+
 [![Foo](https://ripppleapp.com/images/appstore.svg)](https://apps.apple.com/app/id6470127892) [![Foo](https://ripppleapp.com/images/macappstore.svg)](https://apps.apple.com/app/id6470127892)
