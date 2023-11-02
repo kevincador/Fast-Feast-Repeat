@@ -14,10 +14,10 @@ Start your fasting journey with confidence and clarity using Fast Feast Repeat. 
 Fast Feast Repeat is crafted to be user-friendly and unobtrusive. Experience the ease of use without any overbearing nudges, allowing you to focus on your fasting goals without unnecessary distractions.
 
 #### Worry-Free One-Time Purchase
-No subscription, no hidden fees. Start tracking you fasts, don’t worry about being tracked because there’s nothing more to sell you.
+No subscription, no hidden fees, no user account needed. Start tracking you fasts, don’t worry about being tracked... because there’s nothing more to sell you.
 
 #### Privacy-Centric - Own Your Data
-Your privacy matters. Fast Feast Repeat operates with a strict privacy-first approach. Your data is entirely yours, offering the capability to export and import it at your convenience.
+Your privacy matters. Fast Feast Repeat operates with a strict privacy-first approach. Your data is entirely yours, offering the capability to export and import it at your convenience. You data is stored privately on and synced across devices via your own iCloud account.
 
 ## Features
 
