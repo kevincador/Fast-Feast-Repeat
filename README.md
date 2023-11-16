@@ -8,6 +8,9 @@ The app offers a comprehensive insight into your fasting routine, empowering you
 
 Start your fasting journey with confidence and clarity using Fast Feast Repeat. Own your fasting experience while achieving your health and wellness goals!
 
+![Thursday, 16 Nov 2023 09:19:05](https://github.com/kevincador/Fast-Feast-Repeat/assets/146673/548ff23a-5be6-427d-b6ef-beda5ffbdf50)
+
+
 ## Core Values
 
 #### Simple and Non-Intrusive
@@ -39,4 +42,4 @@ Your privacy matters. Fast Feast Repeat operates with a strict privacy-first app
 
 If you have any question about Fast Feast Repeat, [contact me](mailto:kevin.cador@me.com?subject=Fast%20Traking%20app).
 
-[![Foo](https://ripppleapp.com/images/appstore.svg)](https://apps.apple.com/app/id6470127892) [![Foo](https://ripppleapp.com/images/macappstore.svg)](https://apps.apple.com/app/id6470127892)
+[![Foo](https://ripppleapp.com/images/appstore.svg)](https://apps.apple.com/app/id6470127892) 
