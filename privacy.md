@@ -3,7 +3,7 @@ title: Privacy Policy
 filename: privacy.md
 --- 
 
-[Home](README.md) • [Terms](terms.md)
+[Home](README.md) • [Terms](terms.md) • [Changelog](https://headwayapp.co/fast-feast-repeat-changelog)
 
 ## Intro
 
