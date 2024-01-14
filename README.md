@@ -1,4 +1,4 @@
-[Terms](terms.md) • [Privacy](privacy.md)
+[Terms](terms.md) • [Privacy](privacy.md) • [Changelog](https://headwayapp.co/fast-feast-repeat-changelog)
 
 ## About
 
