@@ -3,7 +3,7 @@ title: Terms of Use
 filename: terms.md
 --- 
 
-[Home](README.md) • [Privacy](privacy.md)
+[Home](README.md) • [Privacy](privacy.md) • [Changelog](https://headwayapp.co/fast-feast-repeat-changelog)
 
 ## Intro
 
