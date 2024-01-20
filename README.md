@@ -38,6 +38,14 @@ Your privacy matters. Fast Feast Repeat operates with a strict privacy-first app
 - Track minimum and maximum fast durations
 - Look at the average duration of your fasts over 7 days, 30 days, and overall
 
+## Availability
+
+- Fast Feast Repeat is available on iPhone and iPad running iOS 17.0 and above.
+- Fast Feast Repeat is also available on Mac running macOS 14 Sonoma and above.
+
+![Untitled 4 001](https://github.com/kevincador/Fast-Feast-Repeat/assets/146673/29dddf0f-b8bb-4502-a040-7e16af3b221c)
+
+
 ## Contact
 
 If you have any question about Fast Feast Repeat, [contact me](mailto:kevin.cador@me.com?subject=Fast%20Traking%20app).
