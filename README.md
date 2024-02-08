@@ -41,9 +41,13 @@ Your privacy matters. Fast Feast Repeat operates with a strict privacy-first app
 ## Availability
 
 - Fast Feast Repeat is available on iPhone and iPad running iOS 17.0 and above.
-- Fast Feast Repeat is also available on Mac running macOS 14 Sonoma and above.
+- Fast Feast Repeat is available on Mac running macOS 14.0 Sonoma and above.
 
 ![Untitled 4 001](https://github.com/kevincador/Fast-Feast-Repeat/assets/146673/29dddf0f-b8bb-4502-a040-7e16af3b221c)
+
+- Fast Feast Repeat is available on Apple Watch running watchOS 10.0 and above.
+
+<img width="1162" alt="Screenshot 2024-02-06 at 11 34 08" src="https://github.com/kevincador/Fast-Feast-Repeat/assets/146673/e76a74bf-2e6a-4757-816b-17cc33c923bb">
 
 
 ## Contact
